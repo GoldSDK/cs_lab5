@@ -1,0 +1,14 @@
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\bin\Debug\net8.0\cs_lab5.exe
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\bin\Debug\net8.0\cs_lab5.deps.json
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\bin\Debug\net8.0\cs_lab5.runtimeconfig.json
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\bin\Debug\net8.0\cs_lab5.dll
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\bin\Debug\net8.0\cs_lab5.pdb
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.AssemblyInfoInputs.cache
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.AssemblyInfo.cs
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.csproj.CoreCompileInputs.cache
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.dll
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\refint\cs_lab5.dll
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.pdb
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\cs_lab5.genruntimeconfig.cache
+C:\Users\glaznyxa\Documents\cs_labs\cs_lab5\cs_lab5\obj\Debug\net8.0\ref\cs_lab5.dll
